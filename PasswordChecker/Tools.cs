@@ -34,7 +34,8 @@ namespace PasswordChecker
             Console.WriteLine($"Should be true: {Contains(mixedWord, uppercase)}");
             Console.WriteLine($"Should be true: {Contains(mixedWord, lowercase)}");
 
-            
+
+             
         }
     }
 }
