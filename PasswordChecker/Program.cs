@@ -62,6 +62,7 @@ namespace PasswordChecker
                     Console.WriteLine("The password doesn't meet any of our requirements, try again!");
                     break;
 
+
                     
             }
             Console.ReadKey();
